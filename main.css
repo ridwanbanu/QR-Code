@@ -1,0 +1,27 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: #D5E1EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.card {
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+    width: 312px;
+    height: auto;
+    border-radius: 16px;
+}
+h5 {
+    font-size: 21px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 10px;
+}
+p {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px;
+}
